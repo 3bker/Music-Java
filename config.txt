@@ -1,0 +1,65 @@
+﻿token = 
+
+
+owner = 516473846983950336
+
+
+
+
+prefix = "t"
+
+
+
+game = "DEFAULT"
+
+
+
+status = ONLINE
+
+
+
+songinstatus = false
+
+
+
+altprefix = "NONE"
+
+
+
+
+success = "🎶"
+warning = "💡"
+error = "🚫"
+loading = "⌚"
+searching = "🔎"
+
+
+
+help = "help"
+
+
+
+npimages = false
+
+
+
+stayinchannel = true
+
+
+
+maxtime = 0
+
+
+
+playlistsfolder = Playlists
+
+
+updatealerts = true
+
+
+
+lyrics.default = "A-Z Lyrics"
+
+
+
+eval = false
